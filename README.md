@@ -9,13 +9,19 @@ python 3.8 и выше.
 Распаковать в проект языковую модель vosk
 
 Требуется:
+
 pip install vosk
+
 pip install sounddevice
+
 pip install scikit-learn
+
 pip install pyttsx3
 
 Не обязательно:
+
 pip install requests
+
 
 #На Linux-ax, скорее всего нужно еще, если ошибка pyttsx3:
 
@@ -23,7 +29,9 @@ pip install requests
 
 #https://github.com/nateshmbhat/pyttsx3
 
+
 Для получения справки, спроси у него 'Что ты умеешь Крендель?' или 'справка Крендель'
+
 
 Ссылки на библиотеки и доп материалы:
 
